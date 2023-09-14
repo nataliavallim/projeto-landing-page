@@ -1,3 +1,47 @@
+<h1 align="center"> Projeto Landing Page </h1>
+
+
+<p> O Projeto Landing Page é um site que foi produzido para divulgar a empresa F4BANK que é um banco digital fictício.</p> <br> <br>
+
+<h3>Abaixo temos alguns exemplos visuais do que se encontra no site:</h3> <br> <br>
+
+
+![image](https://github.com/nataliavallim/projeto-landing-page/assets/127119019/6e9de9f9-b8a9-46f6-aa20-276fb6511ee8) <br> <br>
+
+
+![image](https://github.com/nataliavallim/projeto-landing-page/assets/127119019/c951d02f-ad4a-495f-ba8d-b59f735bd237) <br> <br>
+
+
+![image](https://github.com/nataliavallim/projeto-landing-page/assets/127119019/111fbb47-1870-4ee3-bb9a-61931a63040e) <br> <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Landing Page
 Nesse projeto, nosso objetivo é criar uma **Landing Page**, ou seja, um site de **apenas uma página** cujo objetivo é atrair clientes e despertar curiosidade e interesse nos serviços e/ou produtos de uma empresa.
 Durante a construção desse site, serão estudados e praticados os seguintes conteúdos:
